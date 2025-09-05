@@ -1,0 +1,6 @@
+.env 
+
+# Dockerfile não precisa ser copiado
+Dockerfile
+docker-compose*.yml
+
