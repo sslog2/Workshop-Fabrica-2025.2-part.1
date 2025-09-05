@@ -21,5 +21,5 @@ from app.views import ok_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', ok_view, name='ok'),
+    path('', ok_view, name='Tudo Certo? '),
 ]
